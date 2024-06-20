@@ -1,5 +1,5 @@
 const presets = [
-    { name: 'Example Preset', file: 'presets/example-preset.fxp' },
+    { name: 'Martin Garrix Type Lead', file: 'presets/Martin_Garrix_Type_Lead.fxp' },
     // Add more presets here
 ];
 
